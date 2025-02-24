@@ -13,11 +13,7 @@ The Interest Group on Open and Reproducible Research (IGOR) in the Section of Bi
 
 
 ## Connect with us  
-<div align="center">
-<a href="https://twitter.com/https://twitter.com/igor_dgps" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
+Follow us on our [website](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/) or on [BlueSky](https://bsky.app/profile/igor-dgps.bsky.social)!
 
 <br />
 
